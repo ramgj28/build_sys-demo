@@ -12,14 +12,12 @@
 #------------------------------------------------------------------------------
 # <Put a Description Here>
 #
-# Use: make [TARGET] [PLATFORM-OVERRIDES]
+# Use: make [C1M2] HOST
 #
 # Build Targets:
-#      <Put a description of the supported targets here>
+#      MSP432 and HOST machine
 #
-# Platform Overrides:
-#      <Put a description of the supported Overrides here
-#
+# 
 #------------------------------------------------------------------------------
 include sources.mk
 
