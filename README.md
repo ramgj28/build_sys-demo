@@ -1,2 +1,3 @@
-THIS IS MY DEMO BUILD SYSTEM USING GNU MAKE.
-IT SUPPORTS TWO PLATFORMS- ARM EMBEDDED SYSTEM AND THE HOST MACHINE
+This is my demo build system using GNU MAKE.
+It supports two platforms - MSP432 and HOST machine.
+This was done as part of a course by University of Colorado Boulder.
